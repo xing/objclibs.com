@@ -214,5 +214,13 @@ var MicroJS = [
     description: "A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats",
     url: "https://github.com/boredzo/iso-8601-date-formatter",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
-  }
+  },
+    {
+      name: "SDNestedTable",
+      github: "serverdensity/ios-SDNestedTable",
+      tags: ["tables"],
+      description: "Obj-C module built on UITableView for creating a 2-level nested list UI control",
+      url: "https://github.com/serverdensity/ios-SDNestedTable",
+      source: "https://github.com/serverdensity/ios-SDNestedTable"
+    }
 ];
