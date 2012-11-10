@@ -206,5 +206,13 @@ var MicroJS = [
     description: "A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats",
     url: "https://github.com/boredzo/iso-8601-date-formatter",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "ModelKit",
+    github: "jawngee/modelkit",
+    tags: ["model","rest","parse","coredata"],
+    description: "A better model framework for Objective-C with support for REST and BaaS services like Parse.",
+    url: "https://github.com/jawngee/ModelKit",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];
