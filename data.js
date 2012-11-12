@@ -214,5 +214,21 @@ var MicroJS = [
     description: "A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats",
     url: "https://github.com/boredzo/iso-8601-date-formatter",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "MASPreferences",
+    github: "shpakovski/MASPreferences",
+    tags: ["preferences","AppKit","NSViewController","NSWindowController","NIB"],
+    description: "Missed AppKit components for creating preference windows and panes from NSViewController objects.",
+    url: "https://github.com/shpakovski/MASPreferences",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "MASShortcut",
+    github: "shpakovski/MASShortcut",
+    tags: ["preferences","hotkey","shortuct","keyboard"],
+    description: "Missed AppKit component for entering and remembering hotkeys in the user defaults.",
+    url: "https://github.com/shpakovski/MASShortcut",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];
