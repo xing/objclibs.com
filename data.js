@@ -214,5 +214,29 @@ var MicroJS = [
     description: "A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats",
     url: "https://github.com/boredzo/iso-8601-date-formatter",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "SDWebImage",
+    github: "rs/SDWebImage",
+    tags: ["image", "networking"],
+    description: "Asynchronous image downloader with cache support with an UIImageView category",
+    url: "https://github.com/rs/SDWebImage",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "SDSegmentedControl",
+    github: "rs/SDSegmentedControl",
+    tags: ["widget"],
+    description: "A drop-in remplacement for UISegmentedControl that mimic iOS 6 AppStore tab controls",
+    url: "https://github.com/rs/SDSegmentedControl",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "SDReachability",
+    github: "rs/SDReachability",
+    tags: ["networking"],
+    description: "Easy to use and to embed Reachability library",
+    url: "https://github.com/rs/SDReachability",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 ];
