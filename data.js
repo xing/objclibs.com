@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "PdfReportKit",
+    github: "as-cii/PdfReportKit",
+    tags: ["pdf", "html", "report"],
+    description: "A simple library to create pdf reports starting with html templates.",
+    url: "https://github.com/as-cii/PdfReportKit",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
     name: "CoreParse",
     github: "beelsebob/CoreParse",
     tags: ["parsing"],
