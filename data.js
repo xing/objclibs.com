@@ -254,14 +254,21 @@ var MicroJS = [
     description: "A software update kit for iOS and Android.",
     url: "https://github.com/TheRealKerni/HockeyKit",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
-  }
-  ,
+  },
   {
     name: "PonyDebugger",
     github: "square/PonyDebugger",
     tags: ["debugging"],
     description: "Remote network and data debugging for your native iOS app using Chrome Developer Tools.",
     url: "https://github.com/square/PonyDebugger",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "RMFBLayer",
+    github: "raffael-me/RMFBLayer",
+    tags: ["facebook","abstraction","social"],
+    description: "Facebook API access for Mac applications, that uses OS X FB integration if available, otherwise PhFacebook.framework.",
+    url: "https://github.com/raffael-me/RMFBLayer",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
 
