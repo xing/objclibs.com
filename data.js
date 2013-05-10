@@ -287,6 +287,21 @@ var MicroJS = [
     description: "Simple SDK for saving URLs to Pocket",
     url: "https://github.com/Pocket/Pocket-ObjC-SDK",
     source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "FrameAccessor",
+    github: "AlexDenisov/FrameAccessor",
+    tags: ["common"],
+    description: "Easy access to view's frame",
+    url: "https://github.com/AlexDenisov/FrameAccessor",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
+  },
+  {
+    name: "TMTumblrSDK",
+    github: "tumblr/TMTumblrSDK",
+    tags: ["tumblr", "sharing", "social"],
+    description: "Unopinionated and flexible library for easily integrating Tumblr data into your iOS or OS X application",
+    url: "https://github.com/Tumblr/TMTumblrSDK",
+    source: "https://raw.github.com/philbooth/check-types.js/master/src/check-types.js"
   }
-
 ];
